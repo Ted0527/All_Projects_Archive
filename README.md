@@ -9,7 +9,7 @@
 
 ## Demo 
 
-[![Brokurly](http://img.youtube.com/vi/ofcgg-3-B28/0.jpg)](https://youtu.be/RL1-vnUOx50)
+[![Brokurly](https://youtu.be/RL1-vnUOx50)
 
 ## ERD
 
