@@ -7,6 +7,10 @@
 - [프론트엔드 github 주소 ] https://github.com/wecode-bootcamp-korea/27-1st-Brokurly-frontend
 - [Notion 프로젝트 소개 및 정리] https://pineapple-voyage-3ed.notion.site/Brokurly-d007312f7573445c860e268ebc60fbe7
 
+## Demo 
+
+[![Brokurly](http://img.youtube.com/vi/ofcgg-3-B28/0.jpg)](https://youtu.be/RL1-vnUOx50)
+
 ## ERD
 
 <img width="754" alt="스크린샷 2021-12-05 오후 6 16 02" src="https://user-images.githubusercontent.com/90754590/145568725-b50daf67-0506-4f15-9344-2381d83ee8b5.png">
