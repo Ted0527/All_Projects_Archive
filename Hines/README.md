@@ -7,8 +7,8 @@
 - 2021.12.13 ~ 2021.12.24
 
 ## 멤버
-- backend : 이유진, 장도원, 제갈창민
-- frontend : 이지현, 홍정빈, 황주영</br>
+- Backend : 이유진, 장도원, 제갈창민
+- Frontend : 이지현, 홍정빈, 황주영</br>
 [Frontend github](https://github.com/wecode-bootcamp-korea/27-2nd-Hines-frontend)
 
 
@@ -22,12 +22,10 @@
 <br>
 
 ## 모델링
-[ERD url](https://drive.google.com/file/d/13y8nRCN6WYFtsMzS5BUNi1MNyUJPcacA/view?usp=sharing)
+<img width="auto" src="https://raw.githubusercontent.com/Ted0527/wecode_projects_achive/main/Hines/images/%ED%95%98%EC%9D%B8%EC%A6%88_%EB%AA%A8%EB%8D%B8%EB%A7%81.png">
 <br>
 
 ## SKillS
-- Javascript
-- React
 - Python
 - Django
 - Mysql
@@ -57,11 +55,13 @@
   - 카카오에서 제공하는 REST API를 이용해 프론트에서 받아온 카카오 token 으로 사용자의 정보를 요청
   - 받아온 정보 중 필요한 정보를 저장(nickname, email)
   - DB에 생성된 id로 JWT를 활용해 '우리의 token'으로 재가공하여 프론트로 응답.
+
 2. 주문 확인 페이지 구현
   - 유저의 정보를 참조하는 Orders 와 상품을 정보를 참조하는 OrderItems 테이블로 구성되어 있다.
   - 주문 번호(order number)와 배송 번호(tracking number)를 uuid 모듈을 이용하여 랜덤하게 부여.
   - OrderStatus 테이블을 따로 두어 '배송중, 결제완료, 주문취소' 와 같은 상태 정보를 참조함. Enum 함수 사용.
   - patch 함수로 주문취소 상황을 따로 컨트롤 할 수 있도록 구현
+
 3. Unit Test 적용
   - 소셜로그인와 주문 확인 페이지에 각각 UnitTest 를 적용하여 에러 및 잘못된 코드에 대한 문제점을 빠르고 확실하게 파악하여 수정하였음.
   - 불필요한 exception 최소화
@@ -69,7 +69,7 @@
 <br>
 
 ## 시연 영상</br>
-[시연 영상](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
+[시연 영상 YouTube](https://www.youtube.com/watch?v=Z4Hw1AQc_og)
 
 <br>
 
