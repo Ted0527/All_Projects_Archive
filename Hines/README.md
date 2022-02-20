@@ -30,27 +30,29 @@
 - Django
 - Mysql
 - AWS
+- Docker(시도는 했으나, 미적용)
 
 <br>
 
 ## Communication Tools
 - Slack
 - Github
-- Trello
-- Notion
+- Trello 
+- Notion [Hines Notion](https://www.notion.so/Hines-House-in-decades-dcdc22764646487a985ef5716bca1b63)
 
 <br>
 
-## 구현기능
-- 소셜로그인
+## 구현기능 (본인 구현 항목 - ★)
+- 소셜로그인 ★
 - 메인페이지
 - 상세페이지
 - 제품 리뷰 포스팅
 - 장바구니
-- 주문 확인 페이지
+- 주문 확인 페이지 ★
 - CSV 데이터 작성 및 데이터 입력
+- 각 API 별 유닛테스트 적용
 
-## 세부 구현 사항
+## 구현 항목 세부 설명
 1. 카카오 소셜 로그인 구현
   - 카카오에서 제공하는 REST API를 이용해 프론트에서 받아온 카카오 token 으로 사용자의 정보를 요청
   - 받아온 정보 중 필요한 정보를 저장(nickname, email)
