@@ -25,7 +25,7 @@
 [![Brokurly](https://media.vlpt.us/images/sae0428/post/f506ea79-a200-416c-bb47-b1138e53d240/1%EC%B0%A8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B8%8C%EB%A1%9C%EC%BB%AC%EB%A6%AC%20%EB%B2%A8%EB%A1%9C%EA%B7%B8%20%EC%8D%B8%EB%84%A4%EC%9D%BC.JPG)](https://youtu.be/RL1-vnUOx50)
 
 # 앱 별 기능 구현 사항
-- ★ 내가 구현 한 기능
+- ★ 본인 구현 항목
 
 ### carts ★
 - 장바구니 담기
