@@ -365,5 +365,3 @@ zsdoc/data
 /db_uploader.py
 csv/
 *.sql
-
-images
